@@ -1,0 +1,17 @@
+C:\Users\IMendes_41\OneDrive\Dev_backup\Projetos\C#\rabbit_mq\Send\obj\Debug\net7.0\Send.csproj.AssemblyReference.cache
+C:\Users\IMendes_41\OneDrive\Dev_backup\Projetos\C#\rabbit_mq\Send\obj\Debug\net7.0\Send.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IMendes_41\OneDrive\Dev_backup\Projetos\C#\rabbit_mq\Send\obj\Debug\net7.0\Send.AssemblyInfoInputs.cache
+C:\Users\IMendes_41\OneDrive\Dev_backup\Projetos\C#\rabbit_mq\Send\obj\Debug\net7.0\Send.AssemblyInfo.cs
+C:\Users\IMendes_41\OneDrive\Dev_backup\Projetos\C#\rabbit_mq\Send\obj\Debug\net7.0\Send.csproj.CoreCompileInputs.cache
+C:\Users\IMendes_41\OneDrive\Dev_backup\Projetos\C#\rabbit_mq\Send\bin\Debug\net7.0\Send.exe
+C:\Users\IMendes_41\OneDrive\Dev_backup\Projetos\C#\rabbit_mq\Send\bin\Debug\net7.0\Send.deps.json
+C:\Users\IMendes_41\OneDrive\Dev_backup\Projetos\C#\rabbit_mq\Send\bin\Debug\net7.0\Send.runtimeconfig.json
+C:\Users\IMendes_41\OneDrive\Dev_backup\Projetos\C#\rabbit_mq\Send\bin\Debug\net7.0\Send.dll
+C:\Users\IMendes_41\OneDrive\Dev_backup\Projetos\C#\rabbit_mq\Send\bin\Debug\net7.0\Send.pdb
+C:\Users\IMendes_41\OneDrive\Dev_backup\Projetos\C#\rabbit_mq\Send\bin\Debug\net7.0\RabbitMQ.Client.dll
+C:\Users\IMendes_41\OneDrive\Dev_backup\Projetos\C#\rabbit_mq\Send\obj\Debug\net7.0\Send.csproj.CopyComplete
+C:\Users\IMendes_41\OneDrive\Dev_backup\Projetos\C#\rabbit_mq\Send\obj\Debug\net7.0\Send.dll
+C:\Users\IMendes_41\OneDrive\Dev_backup\Projetos\C#\rabbit_mq\Send\obj\Debug\net7.0\refint\Send.dll
+C:\Users\IMendes_41\OneDrive\Dev_backup\Projetos\C#\rabbit_mq\Send\obj\Debug\net7.0\Send.pdb
+C:\Users\IMendes_41\OneDrive\Dev_backup\Projetos\C#\rabbit_mq\Send\obj\Debug\net7.0\Send.genruntimeconfig.cache
+C:\Users\IMendes_41\OneDrive\Dev_backup\Projetos\C#\rabbit_mq\Send\obj\Debug\net7.0\ref\Send.dll

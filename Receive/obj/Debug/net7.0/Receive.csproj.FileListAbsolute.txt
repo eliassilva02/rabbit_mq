@@ -1,0 +1,17 @@
+C:\Users\IMendes_41\OneDrive\Dev_backup\Projetos\C#\rabbit_mq\Receive\bin\Debug\net7.0\Receive.exe
+C:\Users\IMendes_41\OneDrive\Dev_backup\Projetos\C#\rabbit_mq\Receive\bin\Debug\net7.0\Receive.deps.json
+C:\Users\IMendes_41\OneDrive\Dev_backup\Projetos\C#\rabbit_mq\Receive\bin\Debug\net7.0\Receive.runtimeconfig.json
+C:\Users\IMendes_41\OneDrive\Dev_backup\Projetos\C#\rabbit_mq\Receive\bin\Debug\net7.0\Receive.dll
+C:\Users\IMendes_41\OneDrive\Dev_backup\Projetos\C#\rabbit_mq\Receive\bin\Debug\net7.0\Receive.pdb
+C:\Users\IMendes_41\OneDrive\Dev_backup\Projetos\C#\rabbit_mq\Receive\bin\Debug\net7.0\RabbitMQ.Client.dll
+C:\Users\IMendes_41\OneDrive\Dev_backup\Projetos\C#\rabbit_mq\Receive\obj\Debug\net7.0\Receive.csproj.AssemblyReference.cache
+C:\Users\IMendes_41\OneDrive\Dev_backup\Projetos\C#\rabbit_mq\Receive\obj\Debug\net7.0\Receive.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IMendes_41\OneDrive\Dev_backup\Projetos\C#\rabbit_mq\Receive\obj\Debug\net7.0\Receive.AssemblyInfoInputs.cache
+C:\Users\IMendes_41\OneDrive\Dev_backup\Projetos\C#\rabbit_mq\Receive\obj\Debug\net7.0\Receive.AssemblyInfo.cs
+C:\Users\IMendes_41\OneDrive\Dev_backup\Projetos\C#\rabbit_mq\Receive\obj\Debug\net7.0\Receive.csproj.CoreCompileInputs.cache
+C:\Users\IMendes_41\OneDrive\Dev_backup\Projetos\C#\rabbit_mq\Receive\obj\Debug\net7.0\Receive.csproj.CopyComplete
+C:\Users\IMendes_41\OneDrive\Dev_backup\Projetos\C#\rabbit_mq\Receive\obj\Debug\net7.0\Receive.dll
+C:\Users\IMendes_41\OneDrive\Dev_backup\Projetos\C#\rabbit_mq\Receive\obj\Debug\net7.0\refint\Receive.dll
+C:\Users\IMendes_41\OneDrive\Dev_backup\Projetos\C#\rabbit_mq\Receive\obj\Debug\net7.0\Receive.pdb
+C:\Users\IMendes_41\OneDrive\Dev_backup\Projetos\C#\rabbit_mq\Receive\obj\Debug\net7.0\Receive.genruntimeconfig.cache
+C:\Users\IMendes_41\OneDrive\Dev_backup\Projetos\C#\rabbit_mq\Receive\obj\Debug\net7.0\ref\Receive.dll
